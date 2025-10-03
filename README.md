@@ -22,7 +22,7 @@ I thrive in dynamic, problem-solving environments where innovation and technical
 Outside of work, I enjoy playing Valorant and FIFA, hanging out with friends, travelling, reading manga, watching anime, and participating in a local cricket league — keeping me balanced and connected both socially and competitively.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://zzulfi1711-pixel.github.io/)
       
 ## 🌱 Currently Studying at University 
 
